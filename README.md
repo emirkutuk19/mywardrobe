@@ -25,3 +25,7 @@ Tüm kullanıcı kayıtları tarayıcı IndexedDB veritabanındadır, sunucuya y
 
 ## Kapsam
 Sanal yapay zekâ prova, otomatik fotoğraf arka plan temizleme, hesap ve bulut senkronizasyonu bu sürümde yoktur.
+
+
+## Sürüm 1.1 — ChatGPT’de Dene
+Kombin kartındaki ChatGPT’de Dene düğmesi kıyafet fotoğraflarını sistem paylaşım menüsüne aktarabilir ve prova talimatını kopyalar. ChatGPT’ye fotoğraflar otomatik yüklenmez; kullanıcı kendi boydan fotoğrafını ayrıca ekler. Bu özellik internet gerektirir. Güncellemede eski IndexedDB verileri korunur; yine de önce yedek almak önerilir.
